@@ -21,7 +21,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Create a Resource Group and two Virtual Machines
-- Remote into VM1
+- Remote into Virtual Machine #1
 - Use various Network Protocols (Ping, ICMP, SSH, TCP/RDP)
 
 
